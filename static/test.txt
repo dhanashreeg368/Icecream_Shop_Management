@@ -1,0 +1,2 @@
+This is new file. 
+static = any one can see on the server.
